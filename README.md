@@ -3,9 +3,9 @@
 - 👀 I’m interested in Data Structure and Algorithms, Web Development, Software Development.
 - 🌱 I’m currently learning ReactJS.
 - 📫 How to reach me 
-      @jiro.nemo on instagram
-      @jiro.dev on facebook
-      @jironemo_dev on twitter
+      @jiro.nemo on instagram <br/>
+      @jiro.dev on facebook <br/>
+      @jironemo_dev on twitter <br/>
 
 <!---
 jironemo/jironemo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
