@@ -2,7 +2,7 @@
 - 🎓Bachelor of Engineering (CompSci) at MIIT, Mandalay, Myanmar
 - 👀 I’m interested in Data Structure and Algorithms, Web Development, Software Development.
 - 🌱 I’m currently learning ReactJS.
-- 📫 How to reach me 
+- 📫 How to reach me <br/>
       @jiro.nemo on instagram <br/>
       @jiro.dev on facebook <br/>
       @jironemo_dev on twitter <br/>
