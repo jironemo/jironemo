@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Structure and Algorithms, Web Development, Software Development.
 - 🌱 I’m currently learning ReactJS.
 - 📫 How to reach me <br/>
-      @jiro.nemo on instagram <br/>
+      <a href= "https://instagram.com/jiro.nemo">@jiro.nemo</a> on instagram <br/>
       @jiro.dev on facebook <br/>
       @jironemo_dev on twitter <br/>
 
