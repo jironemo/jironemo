@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aung Khaing Khant.
-- 🎓Bachelor of Engineering (CompSci) at MIIT, Mandalay, Myanmar
+- 🎓Bachelor of Engineering (CompSci) from MIIT, Mandalay, Myanmar
 - 👀 I’m interested in Data Structure and Algorithms, Web Development, Software Development.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning AngularJS.
 - 📫 How to reach me <br/>
       <a href= "https://instagram.com/jiro.nemo">@jiro.nemo</a> on instagram <br/>
       <a href= "https://facebook.com/jiro.dev">@jiro.dev</a> on facebook <br/>
