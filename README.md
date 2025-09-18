@@ -6,5 +6,6 @@
       <a href = "https://www.linkedin.com/in/aungkhaingkhant/">@aungkhaingkhant</a> on LinkedIn <br/>
       <a href = "mailto:hello@jironemo.tech">Email</a> me! <br/>
 
-### 🛠️ Top Languages by Commit (from Metrics)
-![Metrics](https://github.com/jironemo/blob/main/github-metrics.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jironemo&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jironemo&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jironemo&theme=aura_dark)
