@@ -7,4 +7,4 @@
       <a href = "mailto:hello@jironemo.tech">Email</a> me! <br/>
 
 ### 🛠️ Top Languages by Commit (from Metrics)
-![Metrics](https://github.com/YourUserName/jironemo/blob/main/github-metrics.svg)
+![Metrics](https://github.com/jironemo/blob/main/github-metrics.svg)
