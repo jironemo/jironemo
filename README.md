@@ -7,4 +7,4 @@
 📜 Working on my Master's Thesis: "Developing a Relational Database Management System with Learned-Existence-based LSM Tree Indexing & In-language DSL"
 
 📫 How to reach me <br/>
-      <a href = "https://www.linkedin.com/in/aungkhaingkhant/">@aungkhaingkhant</a> on LinkedIn <br/>
+      <a href = "mailto:aung.kk@jastrisksoftware.site">aung.kk@jastrisksoftware.site</a> 
